@@ -1,5 +1,7 @@
 # Local data
 config.py
+movies_dataset
+*.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
